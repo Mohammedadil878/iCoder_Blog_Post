@@ -1,0 +1,5 @@
+django == 5.0.7
+pip == 24.1.2
+https:/go.microsoft.com/fwlink/?LinkID=135170
+
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
